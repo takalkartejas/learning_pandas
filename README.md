@@ -10,13 +10,14 @@ Video link - https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9r
 
 ## Learning steps:
 <details> <summary>
-1. Basic panda use
+1. Basic panda into
    
 </summary>
 
    1. Create newyork weather folder download nyc_weather.csv
    2. Created pandas_intro jupyter file
    3. installed pandas using pip3 install pandas
+   4. Read the jupyter files to get detailed explaination
 </details>
 
 ---
