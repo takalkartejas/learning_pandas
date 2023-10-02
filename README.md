@@ -8,6 +8,7 @@ Video link - https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9r
 1. Pandas is used to manage dataset
 2. The process of cleaning messy data is called data munging or data wrangling
 3. Dataframe is a main object in Pandas, it is used to represent data with rows and columns like excel.
+4. Can find all the panda series operations here https://pandas.pydata.org/docs/reference/api/pandas.Series.html
 ---
 
 ## Learning steps:
@@ -30,6 +31,7 @@ Video link - https://youtube.com/playlist?list=PLeo1K3hjS3uvCeTYTeyfe0-rN5r8zn9r
 
    1. Create dataframe.ipynb
    2. download weather_data.csv
+   3. Can find all the panda series operations here https://pandas.pydata.org/docs/reference/api/pandas.Series.html
 </details>
 
 ---
